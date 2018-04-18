@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cyberpunk2001", "Cyberpunk2001.csproj", "{DC0F04A8-5DC5-99F1-9239-80F45B8B966F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC0F04A8-5DC5-99F1-9239-80F45B8B966F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC0F04A8-5DC5-99F1-9239-80F45B8B966F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC0F04A8-5DC5-99F1-9239-80F45B8B966F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC0F04A8-5DC5-99F1-9239-80F45B8B966F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
