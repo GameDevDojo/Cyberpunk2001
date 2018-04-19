@@ -27,7 +27,4 @@ public class PlayerHealth : MonoBehaviour
     {
         int currentHealth = maxHealth;  //ilość zdrowia gdy nie ponieśliśmy żadnych obrażeń
     }
-
 }
-
-
